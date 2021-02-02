@@ -15,7 +15,7 @@ The project serves as a image search-engine where users can search images via [u
 
 
 
-## To-do
+## To-do next
 1. Deploy/Host
 2. think of coo/fun ideas for further update
 
@@ -25,7 +25,7 @@ The project serves as a image search-engine where users can search images via [u
 
 <img src='./demo1.png'>
 
-![Screenshot](demo1.png)
+<img src='./demo2.png'>
 
 
 
