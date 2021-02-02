@@ -1,4 +1,4 @@
-(base) MacBook-Pro-4:pics zuck_pa$ pwd
+
 # Image Gallery
 
 ** About
@@ -26,6 +26,14 @@ The project serves as a image search-engine where users can search images via [u
 <img src='./demo1.png'>
 
 <img src='./demo2.png'>
+
+
+
+## Install
+1. `git clone SSH`
+2. `npm install`
+3. `npm start`
+
 
 
 
