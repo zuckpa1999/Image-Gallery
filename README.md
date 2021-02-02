@@ -8,20 +8,20 @@ The project serves as a image search-engine where users can search images via [u
 
 
 
-** Tech Stack
+**Tech Stack
 - React
 - Axios
 - unsplash API
 
 
 
-** To-do
+**To-do
 1. Deploy/Host
 2. think of coo/fun ideas for further update
 
 
 
-** Demo
+**Demo
 
 <img src='./demo.png'>
 
