@@ -23,9 +23,9 @@ The project serves as a image search-engine where users can search images via [u
 
 ## Demo
 
-<img src='./demo.png'>
+<img src='./demo1.png'>
 
-
+![Screenshot](demo1.png)
 
 
 
